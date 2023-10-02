@@ -1,0 +1,12 @@
+img {
+  max-width: 250px;
+  max-height: 250px;
+}
+h1 {
+  font-style: italic;
+  text-decoration: darkcyan;
+
+}
+body {
+  background-color: lightblue;
+}
